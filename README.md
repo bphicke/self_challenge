@@ -1,12 +1,14 @@
-README
+# Self Frontend Challenge
 
-    We would like to give you a chance to show off your frontend skills by creating a simple form in any language or framework of your choice. You are welcome to use any tools or resources at your disposal. 
+## README
 
-CONTENTS
+    We would like to give you a chance to show off your frontend skills by creating a simple form in any language or framework of your choice. You are welcome to use any tools or resources at your disposal.
 
-    We have provided mockups (with redlines) of the expected UI of your webpage in both mobile and desktop views that should serve as a guide. The assets folder contains the only images you will use for this exercise. 
+## CONTENTS
 
-REQUIREMENTS
+    We have provided mockups (with redlines) of the expected UI of your webpage in both mobile and desktop views that should serve as a guide. The assets folder contains the only images you will use for this exercise.
+
+## REQUIREMENTS
 
     The form you will create has 4 input fields and a submit type button. All fields are required with the exception of 'Address 2'. The UI should prevent the user from submitting the form unless all required fields have been filled. Invalid fields should be highlighted in red as shown in the mocks. Once all data has been entered, the submit button should trigger an alert dialog and output the data the user has entered.
 
