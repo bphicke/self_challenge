@@ -27,9 +27,13 @@ class MyApp extends App {
           {/* PWA primary color */}
           <meta key="theme-color" name="theme-color" content={"#000000"} />
           <link
-            href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700&display=swap"
+            href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
             rel="stylesheet"
           />
+          <link
+            href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700&display=swap"
+            rel="stylesheet"
+          ></link>
           <link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
           <title key="title">Self Frontend Challenge</title>
         </Head>

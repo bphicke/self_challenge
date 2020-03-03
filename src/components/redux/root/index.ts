@@ -1,8 +1,16 @@
 import { combineReducers } from "redux";
-import counter from "../counter/counterReducer";
+import firstName from "../firstName/firstNameReducer";
+import lastName from "../lastName/lastNameReducer";
+import address from "../address/addressReducer";
+import addressTwo from "../addressTwo/addressTwoReducer";
+import testForValidation from "../testForValidation/testForValidationReducer";
 
 const rootState = combineReducers({
-  counter,
+  firstName,
+  lastName,
+  address,
+  addressTwo,
+  testForValidation,
 });
 
 export type RootState = ReturnType<typeof rootState>;
